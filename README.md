@@ -25,7 +25,7 @@
 - [**Transformer Model from Scratch (Sequence-to-Sequence)**](https://github.com/tammu1206/Transformer-From-Scratch-Emoji-Translator)  
   ➡️ Built a **custom Transformer architecture** (based on "Attention is All You Need") entirely from scratch in PyTorch for emoji translation.
 
-- [**Secure Satellite Communication Simulation**]()  
+- [**Secure Satellite Communication Simulation**](https://github.com/tammu1206/Data-Security-using-Cryptographic-Encryption-for-Satellite-Networks/tree/main)  
   ➡️ Simulated a hybrid AES+RSA encryption model for secure satellite communications including real-world packet design and delay simulation.
 
 ---
