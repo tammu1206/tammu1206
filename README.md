@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="200" src="https://github.com/your-username/your-repo/blob/main/your-logo.png">
-</p>
-
 <h1 align="center">Hey there, Fellow < Developers/ >! 👋</h1>
 
 <p align="center">
