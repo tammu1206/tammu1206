@@ -1,43 +1,93 @@
-# Hi there 👋 I'm Tamanna!
+<p align="center">
+  <img width="200" src="https://github.com/your-username/your-repo/blob/main/your-logo.png">
+</p>
 
-🎯 **Aspiring AI/ML Engineer | AWS Certified | Cloud Enthusiast**  
-🔭 Currently building scalable AI models and cloud-native ML applications.  
-🚀 Passionate about predictive modeling, LLMs, and automating real-world problems with data-driven solutions.
+<h1 align="center">Hey there, Fellow < Developers/ >! 👋</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tammu1206&label=Profile%20views&color=0e75b6&style=flat" alt="tammu1206" />
+  <a href="https://github.com/tammu1206">
+    <img src="https://img.shields.io/github/followers/tammu1206?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+</p>
+
+---
+
+<div align="center" size="20px">Hi! I'm Tamanna 👩‍💻
+<br>Aspiring AI/ML Engineer | AWS Certified ☁️ | Cloud & Data Enthusiast
+<br>Always building, always learning 🚀
+</div>
+
+---
+
+## 🧠 About Me
+
+- 🔭 Currently building AI models and cloud-based predictive analytics systems.
+- 🌱 Diving deeper into LLMs, Transformers, and Cloud AI deployment.
+- 💬 Ask me about Machine Learning, Cloud Engineering, Model Optimization.
+- 👯 Open to collaborate on AI Research, Cloud Deployments, Open Source Projects.
+- ⚡ Fun fact: I believe coffee ☕ + code 💻 can change the world 🌍.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, SQL
-- **Machine Learning/AI:** Supervised & Unsupervised Learning, Deep Learning, Neural Networks, Predictive Analytics
-- **Frameworks/Tools:** TensorFlow, PyTorch, Scikit-learn, FastAPI, Jupyter Notebook, VS Code
-- **Cloud Platforms:** AWS (Certified Cloud Practitioner + Solutions Architect Associate)
-- **Security:** IAM, Cloud Security, Encryption (AES, RSA)
-- **Data Science:** ETL Pipelines, Feature Engineering, Model Evaluation
-- **Visualization:** Matplotlib, Seaborn, Pandas, NumPy
-- **Other:** Git & GitHub, Docker (learning in progress 🚀)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
+</p>
 
 ---
 
-## 📈 Projects
-- [**Battery Degradation Prediction for Electric Vehicles**](https://github.com/tammu1206/battery-degradation-estimation)  
-  ➡️ Developed a hybrid predictive model using Neural Networks, Random Forest, and Gradient Boosting achieving **99.6% R²**. Optimized latency by 40%.
+## 🚀 My Top Projects
 
-- [**Transformer Model from Scratch (Sequence-to-Sequence)**](https://github.com/tammu1206/Transformer-From-Scratch-Emoji-Translator)  
-  ➡️ Built a **custom Transformer architecture** (based on "Attention is All You Need") entirely from scratch in PyTorch for emoji translation.
+- 🔋 [**Battery Degradation Prediction for EVs**](https://github.com/tammu1206/battery-degradation-estimation)  
+  - Predicting electric vehicle battery health with hybrid AI models (99.6% R² Score).
 
-- [**Secure Satellite Communication Simulation**](https://github.com/tammu1206/Data-Security-using-Cryptographic-Encryption-for-Satellite-Networks/tree/main)  
-  ➡️ Simulated a hybrid AES+RSA encryption model for secure satellite communications including real-world packet design and delay simulation.
+- 🧠 [**Transformer from Scratch - Emoji Translator**](https://github.com/tammu1206/Transformer-From-Scratch-Emoji-Translator)  
+  - Built Transformer Architecture end-to-end in PyTorch. Sequence-to-sequence magic! ✨
+
+- 🛰️ [**Secure Satellite Communication Simulator**](https://github.com/tammu1206/Data-Security-using-Cryptographic-Encryption-for-Satellite-Networks/tree/main)  
+  - Built a hybrid RSA + AES encryption system and full packet simulation for satellites!
 
 ---
 
 ## 📬 Connect With Me
-- [LinkedIn](www.linkedin.com/in/tamannna250204)
-- [GitHub](https://github.com/tammu1206)
-- [Credly Certifications](https://www.credly.com/users/tamanna-na)
-- 📧 tamanna250204@gmail.com
+<p align="center">
+  <a href="http://www.linkedin.com/in/tamannna250204"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="40" height="40"></a>
+  <a href="mailto:tamanna250204@gmail.com"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg" width="40" height="40"></a>
+  <a href="https://github.com/tammu1206"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="40" height="40"></a>
+  <a href="https://www.credly.com/users/tamanna-na"><img src="https://img.icons8.com/color/48/000000/credly.png" width="40" height="40"></a>
+</p>
 
 ---
 
-![Tamanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=tammu1206&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tammu1206&layout=compact&theme=radical)
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tammu1206&show_icons=true&theme=tokyonight" alt="Tamanna's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tammu1206&theme=tokyonight" alt="Tamanna's GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tammu1206&theme=tokyonight&layout=compact" alt="Tamanna's Top Languages" />
+</p>
+
+---
+
+## 😂 Fun Corner
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
+---
 
