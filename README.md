@@ -2,16 +2,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tammu1206&label=Profile%20views&color=0e75b6&style=flat" alt="tammu1206" />
-  <a href="https://github.com/tammu1206">
-    <img src="https://img.shields.io/github/followers/tammu1206?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-</p>
-
 ---
 
 ### 👩‍💻 About Me
